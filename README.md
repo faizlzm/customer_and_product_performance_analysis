@@ -1,1 +1,1 @@
-# data-analyst-portfolio
+# customer_and_product_performance_analysis
